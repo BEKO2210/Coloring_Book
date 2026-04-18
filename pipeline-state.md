@@ -97,7 +97,10 @@
   - Format: 8,5×11", 68 Seiten, matte paperback
   - Preis: Launch 9,99 € → Regulär 11,99 €
 - [x] Step 6 — KDP Listing ✅ (`step6-kdp-listing.md`)
-- [ ] Step 7 — Scaling Strategy / 20-Bücher-Launchplan
+- [x] Step 7 — Scaling Strategy ✅ (`step7-scaling.md`)
+  - Serienname: **„Ruhige Stunden"** (20 Bände über 14 Monate)
+  - Reinvest-Logik 40 % → 30 % → 25 %
+  - Umsatz-Prognose realistisch: ~55.000 €/Jahr ab Monat 12
 
 ---
 
