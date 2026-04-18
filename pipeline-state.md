@@ -89,7 +89,8 @@
 - [x] Step 1 — Niche Research (Niche gewählt: Mandalas für Senioren)
 - [x] Step 2 — Product Ideas (20 Konzepte generiert; `{THEME}` = Nr. 1 gewählt)
 - [x] Step 3 — 30 Page Concepts ✅ (`step3-page-concepts.md`)
-- [ ] Step 4 — AI Art Prompts (ChatGPT-Image optimiert) — 🟡 Test-Phase: 3 Pilot-Prompts
+- [x] Step 4 — AI Art Prompts (ChatGPT-Image, 30 + 3 Bonus) ✅ (`step4-ai-prompts.md`)
+- [ ] User-Produktion — 33 Bilder generieren (8 Sessions geplant)
 - [ ] Step 5 — Book Structure + Titel
 - [ ] Step 6 — KDP Listing
 - [ ] Step 7 — Scaling Strategy (integriert in 20-Bücher-Plan oben)
