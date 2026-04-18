@@ -89,10 +89,18 @@
 - [x] Step 1 — Niche Research (Niche gewählt: Mandalas für Senioren)
 - [x] Step 2 — Product Ideas (20 Konzepte generiert; `{THEME}` = Nr. 1 gewählt)
 - [x] Step 3 — 30 Page Concepts ✅ (`step3-page-concepts.md`)
-- [ ] Step 4 — AI Art Prompts (ChatGPT-Image optimiert) — 🟡 Test-Phase: 3 Pilot-Prompts
-- [ ] Step 5 — Book Structure + Titel
-- [ ] Step 6 — KDP Listing
-- [ ] Step 7 — Scaling Strategy (integriert in 20-Bücher-Plan oben)
+- [x] Step 4 — AI Art Prompts (ChatGPT-Image, 30 + 3 Bonus) ✅ (`step4-ai-prompts.md`)
+- [ ] User-Produktion — 33 Bilder generieren (8 Sessions geplant) — 🟡 läuft parallel
+- [x] Step 5 — Book Structure + Titel ✅ (`step5-book-structure.md`)
+  - Titel: **„Große Mandalas für ruhige Stunden"**
+  - Subtitle: *Das Mandala-Malbuch für Senioren mit extra großen Motiven — auch für Menschen mit Demenz geeignet*
+  - Format: 8,5×11", 68 Seiten, matte paperback
+  - Preis: Launch 9,99 € → Regulär 11,99 €
+- [x] Step 6 — KDP Listing ✅ (`step6-kdp-listing.md`)
+- [x] Step 7 — Scaling Strategy ✅ (`step7-scaling.md`)
+  - Serienname: **„Ruhige Stunden"** (20 Bände über 14 Monate)
+  - Reinvest-Logik 40 % → 30 % → 25 %
+  - Umsatz-Prognose realistisch: ~55.000 €/Jahr ab Monat 12
 
 ---
 
